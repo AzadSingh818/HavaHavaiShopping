@@ -1,0 +1,10 @@
+/* ...existing code... */
+body {
+    margin: 0;
+    padding: 0;
+}
+/* Remove extra space at the top */
+main {
+    margin-top: 0;
+}
+/* ...existing code... */
